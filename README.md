@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image jpg](https://github.com/lifeofstg/Bank-dashboard-/assets/169918011/747a6bd2-02bf-44e5-b0b0-8b2ce2e1b640)<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Bank dashboard concept</title>
@@ -13,7 +13,7 @@
         <div class="app-header-logo">
           <div class="logo">
             <span class="logo-icon">
-              <img src="https://assets.codepen.io/285131/almeria-logo.svg" />
+              <img src="![20230415_161337_0000](https://github.com/lifeofstg/Bank-dashboard-/assets/169918011/7de3809b-4b21-458c-b2de-dd9a0d718f4d)">
             </span>
             <h1 class="logo-title">
               <span>HOHG</span>
@@ -47,7 +47,7 @@
           <button class="user-profile">
             <span>Opeyemi Emmanuel</span>
             <span>
-              <img src="IMG-20240510-WA0036.jpg">
+              <img src="![image jpg](https://github.com/lifeofstg/Bank-dashboard-/assets/169918011/684dcfeb-055b-4e95-ab6b-94e7aebbb25a)">
             </span>
           </button>
           <div class="app-header-actions-buttons">
